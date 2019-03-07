@@ -3,6 +3,7 @@
 using namespace std;
 int main()
 {
-count<<"hello world!";
+count<<"hirasabir!";
+count<<"iqrauniversity!";
 return 0;
 }
