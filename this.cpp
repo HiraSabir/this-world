@@ -3,6 +3,6 @@
 using namespace std;
 int main()
 {
-count<<"this world!";
+count<<"hello world!";
 return 0;
 }
